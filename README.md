@@ -7,6 +7,14 @@ prerequisite
 
 - Python3
 - pip
+- GeoIP
+
+GeoIP setup in macOS with Homebrew
+
+```
+$ brew install geoip geoipupdate
+$ geoipupdate
+```
 
 usage
 --------
